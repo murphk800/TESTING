@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Depots</name>
+		<description>Depots | Created with http://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>South</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>COP</value>
+							</Data>
+									</ExtendedData>
+								<address>2225 W Lower Buckeye Rd, Phoenix, AZ 85009</address>
+				<Point>
+					<coordinates>-112.1061442,33.4203725,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>North</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>COP</value>
+							</Data>
+									</ExtendedData>
+								<address>2010 W Desert Cove Ave, Phoenix, AZ 85029</address>
+				<Point>
+					<coordinates>-112.1017358,33.5871618,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>West</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>COP</value>
+							</Data>
+									</ExtendedData>
+								<address>405 N 79th Ave, Phoenix, AZ 85043</address>
+				<Point>
+					<coordinates>-112.227417,33.453636,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tempe</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>Valley Metro</value>
+							</Data>
+									</ExtendedData>
+								<address>2050 W Rio Salado Parkway, Tempe, AZ 85281</address>
+				<Point>
+					<coordinates>-111.9703817,33.4298859,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Total Transit</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>Valley Metro</value>
+							</Data>
+									</ExtendedData>
+								<address>4600 W Camelback Road, Glendale, AZ 85301</address>
+				<Point>
+					<coordinates>-112.1589961,33.5097746,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dunn</name>				<ExtendedData>
+												<Data name='Agency'>
+								<value>City of Scottsdale</value>
+							</Data>
+									</ExtendedData>
+								<address>1322 N McClintock Dr, Tempe, AZ 85281</address>
+				<Point>
+					<coordinates>-111.9099006,33.4436384,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>http://static.batchgeo.com/images/icons/blue_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
