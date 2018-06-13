@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>New KML Layer</name>
+<Style id="blue">
+<LineStyle>
+<color>ffff00ff</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>ffff00ff</color>
+<colorMode>random</colorMode>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Test polygon</name>
+<styleUrl>blue</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+-112.075174,33.452129,0
+-112.075789,33.452142,0
+-112.075783,33.451446,0
+-112.075183,33.451446,0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml> 
